@@ -1,0 +1,13 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuNINyzg2Q62j209lhUi58H3V1XZSn6i1COrR4gH458PO30Y1SoWufHv2NW7fsdK5sZT7SwQWC4sY&usqp=CAU&ec=48600113",
+        "name": "MD MOIN",
+        "email": "vue@demo.com",
+        "password": "vue@demo",
+        "token" : "4343243h4h3jh43h43j4h32j4h34jh3j434hj"
+      
+      }
+    ]
+  }
